@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Meek's 3D Printing"
+title:		           "Meek's 3D Printing test"
 description:	       "A collection of 3D printing projects, detailing Blender work and showcasing \
                       physical models. | "
 
