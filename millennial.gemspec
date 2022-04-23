@@ -1,5 +1,5 @@
 # frozen_string_literal: true
-gem 'wdm', '~> 0.1.0'
+
 Gem::Specification.new do |spec|
   spec.name          = "millennial"
   spec.version       = "2.0.0"
