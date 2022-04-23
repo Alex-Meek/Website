@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: "About the Author"
 author: "Alex Meek"
-categories: facts
 tags: []
 image: doge.png
 ---

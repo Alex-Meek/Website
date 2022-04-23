@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
+title: 3D Printing
 category: facts
 permalink: /facts
 ---

@@ -9,14 +9,13 @@ google-ID: ''
 menu:
 - {name: 'Interesting Facts',  url: 'facts'}
 - {name: 'Learning Resources', url: 'resources'}
-- {name: 'Sample Posts',       url: 'sample-posts'}
+- {name: '3D-Printing',       url: '3D-Printing'}
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
 - {icon: 'facebook', link:   'https://www.facebook.com/alexmeeky'}
 - {icon: 'instagram', link:  'https://www.instagram.com/emeekcsquared/'}
 - {icon: 'envelope', link:   'mailto:alexander.meek98@gmail.com'}
