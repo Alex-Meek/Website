@@ -18,4 +18,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-sitemap"
   spec.add_runtime_dependency "jekyll-seo-tag"
 
+  gem 'wdm', '~> 0.1.0'
 end
