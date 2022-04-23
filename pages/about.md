@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
+category: about
 permalink: /about
+image: doge.png
 ---
 
-This website contains a slowly growing collection of 3D printing projects. Included are pictures of various development stages, Blender modelling, and many failures.
+This is the about section.
