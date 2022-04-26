@@ -9,7 +9,6 @@ google-ID: ''
 menu:
 - {name: 'About',  url: 'about'}
 - {name: '3D Printing',  url: '3dprinting'}
-- {name: 'Painting',  url: 'painting'}
 - {name: 'Gallery',  url: 'gallery'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer

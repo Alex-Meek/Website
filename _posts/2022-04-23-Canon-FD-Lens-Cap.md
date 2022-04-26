@@ -3,7 +3,7 @@ layout: post
 title: Canon FD Lens Cap
 author: Alex Meek
 categories: 3dprinting
-image: doge.png
+image: Canon-blender-final-version.png
 ---
 
 ## header
