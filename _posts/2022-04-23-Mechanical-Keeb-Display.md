@@ -3,5 +3,5 @@ layout: post
 title: Nullbits Tidbit Display
 author: Alex Meek
 categories: 3dprinting
-image: doge.png
+image: keyboard_oled_fit_unpainted_2.png
 ---
