@@ -11,7 +11,7 @@
   font-size:0.8rem;
 }
 .featured-image img {
-  align: middle;
+  box-align: middle;
   margin: 5px auto 25px;
   display: block;
   max-width: 600px;
@@ -23,7 +23,7 @@
     margin: 10px auto 10px;
   }
   .featured-image img {
-    align: middle;
+    box-align: middle;
     margin: 5px auto 25px;
     display: block;
     max-width: 60vw;
@@ -36,7 +36,7 @@
     margin: 10px auto 10px;
   }
   .featured-image img {
-    align: middle;
+    box-align: middle;
     margin: 5px auto 25px;
     display: block;
     max-width: 95vw;
