@@ -16,6 +16,16 @@ To solve this issue, I created a mount for the OLED display which allows for it'
 
 ## Blender Model
 
+<figure>
+    <img src="assets/img/oled_mount_dual_img.png" alt="Blender model of the display mount">
+    <figcaption> <b> Fig.1, Blender Model</b> | This image shows the blender model of the display mount which can be found on my github page, <a href="https://github.com/Alex-Meek/Blender-Models/tree/main"> here</a>. The green coloured object is a rough outline of the oled model I aquired for the keyboard [link]. 
+<figure> 
+
+<br>
+
+more text
+
+<br><br>
 
 
 
