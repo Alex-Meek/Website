@@ -29,10 +29,35 @@ The blender model can then be exported as a .stl file, which can be read by your
 
 <figure>
     <img src="assets/img/oled_mount_physical_top_frontback.png">
-    <figcaption> <b> Fig.2, Physical Model Top</b> | </figcaption>
+    <figcaption> <b> Fig.2, Physical Model Top</b> | This is the upper section of the model, the part that is visible when mounted to the keyboard. </figcaption>
 </figure> 
+
 
 <figure>
     <img src="assets/img/oled_mount_physical_bottom.png">
-    <figcaption> <b> Fig.3, Physical Model Bottom</b> | </figcaption>
+    <figcaption> <b> Fig.3, Physical Model Bottom</b> | This is the lower section of the model, the part not visible when mounted to the keyboard. </figcaption>
 </figure> 
+
+The OLED display sits on top of the middle grey piece shown in figure 1. Pins from the PCB of the OLED protrude through the bottom of this piece. These pins are soldered to the wire, which consists of 4 wires leading to the corresponding connections on the PCB. <i> Tip: to keep track of which wire is which in a the case that the wires are the same colour, use a multimeter - you'll only get a resistance reading when connecting to the ends of the same wire. </i>
+
+The wire connecting the OLED PCB to the keyboard PCB is then sandwiched between the two lower most layers, which are superglued together. 
+
+The upper part of the display is held to the acryllic of the keyboard and the lower object/display, using plastic nuts and bolts. Bolts are glued to the middle printed part, and then bolts go through the acryllic and upper printed component, holding the printed parts and display together and also holding them to the keyboard. 
+
+BLENDER ANIMATION HERE
+
+## Painting
+
+For any printed part, step one of printing is sanding of the surface to ensure good paint adhesion. The key thing to remember is that <b> paint does not fill </b>. Therefore, any large surface scratches/irregularities will still be visible after painting if you don't deal with them in the sanding phase. 
+
+Following sanding, it's a good idea to have a few coats of a primer for increased adhesion of the airbrushed paint. However, I skipped this step here ...
+
+<figure>
+    <img src="assets/img/oled_upper_painted.png">
+    <figcaption> <b> Fig.4, Painted Upper Part</b> | Here you can see the upper printed part airbrushed black.</figcaption>
+</figure> 
+
+In figure 4 you can see the upper part of the display mount painted in black. Poor sanding meant that some surface defects are visiable, moreso in person. 
+
+Following this, a glossy clear coat was applied which helped to mask some of the surface defects.
+
